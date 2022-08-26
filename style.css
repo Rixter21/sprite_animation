@@ -1,5 +1,4 @@
 #canvas1 {
-    border: 5px solid black;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -10,7 +9,7 @@
 .controls {
     position: absolute;
     z-index: 10;
-    top: 50px;
+    top: 100px;
     left: 50%;
     transform: translateX(-50%);
 }
